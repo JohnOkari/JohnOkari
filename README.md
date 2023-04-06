@@ -3,6 +3,9 @@
 # 👋🏾 Hey, I'm John!
 
 I'm a Fullstack Software Engineer with a passion for crafting cutting-edge web applications that not only look amazing but also provide seamless user experiences. Armed with a diverse set of technical skills and a knack for problem-solving, I'm dedicated to turning ideas into reality and delivering solutions that exceed expectations. Whether it's developing the frontend with React or building the backend with Rails I thrive on the challenge of pushing boundaries and delivering innovative solutions that make a difference. So let's collaborate and create something awesome together!.
+
+**Backend**
+
 As a Fullstack Software Engineer with a passion for backend development, I'm a master of technologies like Ruby on Rails and Node.js. From architecting and building APIs to managing databases and implementing complex business logic, I thrive on pushing the limits of what's possible in the backend space. With an eagle eye for detail and an unwavering commitment to quality, I consistently deliver exceptional solutions that are optimized for performance, scalability, and reliability. Whether it's debugging complex code, optimizing database queries, or building microservices, I relish the challenge of tackling the toughest backend problems and delivering elegant, efficient solutions that leave clients and end-users alike in awe.
 
 **Fun Facts**
@@ -25,6 +28,9 @@ As a Fullstack Software Engineer with a passion for backend development, I'm a m
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Ruby on Rails Badge](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+<!-- ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
 
 ---
 
@@ -38,11 +44,11 @@ As a Fullstack Software Engineer with a passion for backend development, I'm a m
 ## 🥳 Let's Get Social
 🌐 Follow me around the web!
 
-<a href="https://www.youtube.com/channel/UCCoKFWpai3OO1R0e_AHeNKA">
+<!-- <a href="https://www.youtube.com/channel/UCCoKFWpai3OO1R0e_AHeNKA">
     <img 
         src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         alt="YouTube Logo Badge"
-    >
+    > -->
 </a>
 <a href="https://twitter.com/johnnokari">
     <img 
