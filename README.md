@@ -1,12 +1,7 @@
-<!-- ![Bree Hall Github Banner](img/Github-ReadMe-Banner-Thin.png) -->
 
 # 👋🏾 Hey, I'm John!
+I am a Fullstack Developer who believes that technology's full potential is yet to be exploited. He enjoys building solutions that impact people and businesses.My overwhelming curiosity about tech can't stop me from exploring new challenges. I'm passionate about making open-source more accessible and creating technology to solve problems.  I'm also interested in learning new things like CI/CD and Docker . I AM AVAILABLE FOR HIRE
 
-I'm a Fullstack Software Engineer with a passion for crafting cutting-edge web applications that not only look amazing but also provide seamless user experiences. Armed with a diverse set of technical skills and a knack for problem-solving, I'm dedicated to turning ideas into reality and delivering solutions that exceed expectations. Whether it's developing the frontend with React or building the backend with Rails I thrive on the challenge of pushing boundaries and delivering innovative solutions that make a difference. So let's collaborate and create something awesome together!.
-
-**Backend**
-
-As a Fullstack Software Engineer with a passion for backend development, I'm a master of technologies like Ruby on Rails and Node.js. From architecting and building APIs to managing databases and implementing complex business logic, I thrive on pushing the limits of what's possible in the backend space. With an eagle eye for detail and an unwavering commitment to quality, I consistently deliver exceptional solutions that are optimized for performance, scalability, and reliability. Whether it's debugging complex code, optimizing database queries, or building microservices, I relish the challenge of tackling the toughest backend problems and delivering elegant, efficient solutions that leave clients and end-users alike in awe.
 
 **Fun Facts**
 
@@ -34,6 +29,7 @@ As a Fullstack Software Engineer with a passion for backend development, I'm a m
 
 ---
 
+
 ## ✏️ Currently Leanring
 🎨 I use Redux to build robust, scalable web applications that manage complex data flows and ensure seamless user experiences.
 
@@ -41,14 +37,23 @@ As a Fullstack Software Engineer with a passion for backend development, I'm a m
 
 ---
 
+### :octocat: My stats
+
+
+<table>
+
+
+  <tr>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnOkari&langs_count=10&layout=compact"/></td>
+    <!-- <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MICHAELMUNAVU83&langs_count=10&layout=compact"/></td> -->
+  </tr>
+</table>
+
+
 ## 🥳 Let's Get Social
 🌐 Follow me around the web!
 
-<!-- <a href="https://www.youtube.com/channel/UCCoKFWpai3OO1R0e_AHeNKA">
-    <img 
-        src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-        alt="YouTube Logo Badge"
-    > -->
+
 </a>
 <a href="https://twitter.com/johnnokari">
     <img 
@@ -62,3 +67,4 @@ As a Fullstack Software Engineer with a passion for backend development, I'm a m
         alt="Linkedin Logo Badge"
     >
 </a>
+
