@@ -1,19 +1,6 @@
 
 # 👋🏾 Hey, I'm John!
-I am a Fullstack Developer who believes that technology's full potential is yet to be exploited. He enjoys building solutions that impact people and businesses.My overwhelming curiosity about tech can't stop me from exploring new challenges. I'm passionate about making open-source more accessible and creating technology to solve problems.  I'm also interested in learning new things like CI/CD and Docker . I AM AVAILABLE FOR HIRE
-
-
-**Fun Facts**
-
-🌟 My first programming experience was with JavaScript, and I've been captivated by the endless possibilities of software engineering ever since.
-
-📷 I have a deep passion for photography, and I love to capture life's moments through the lens of my camera.
-
-💻 In addition to writing code, I enjoy attending tech forums and staying up-to-date on the latest trends and advancements in the industry.
-
-⚽️ Football is my favorite sport, and I spend much of my free time either playing the game or watching my favorite teams compete.
-
-🎮 When I'm not coding or pursuing my other hobbies, I love to unwind with video games. FIFA is my go-to game, and I never tire of exploring new tactics and mastering the art of the virtual pitch.
+I am a Fullstack Developer who believes that technology's full potential is yet to be exploited. I enjoy building solutions that impact people and businesses. My overwhelming curiosity about tech can't stop me from exploring new challenges. I'm passionate about making open-source more accessible and creating technology to solve problems.  I'm also interested in learning new things like CI/CD and Docker . I AM AVAILABLE FOR HIRE
 
 ---
 
@@ -41,18 +28,30 @@ I am a Fullstack Developer who believes that technology's full potential is yet 
 
 
 <table>
-
-
   <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnOkari&langs_count=10&layout=compact"/></td>
-    <!-- <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MICHAELMUNAVU83&langs_count=10&layout=compact"/></td> -->
+    <!-- <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnOkari&langs_count=10&layout=compact"/></td> -->
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MICHAELMUNAVU83&langs_count=10&layout=compact"/></td>
   </tr>
 </table>
 
+---
+
+**Fun Facts**
+
+🌟 My first programming experience was with JavaScript, and I've been captivated by the endless possibilities of software engineering ever since.
+
+📷 I have a deep passion for photography, and I love to capture life's moments through the lens of my camera.
+
+💻 In addition to writing code, I enjoy attending tech forums and staying up-to-date on the latest trends and advancements in the industry.
+
+⚽️ Football is my favorite sport, and I spend much of my free time either playing the game or watching my favorite teams compete.
+
+🎮 When I'm not coding or pursuing my other hobbies, I love to unwind with video games. FIFA is my go-to game, and I never tire of exploring new tactics and mastering the art of the virtual pitch.
+
+---
 
 ## 🥳 Let's Get Social
 🌐 Follow me around the web!
-
 
 </a>
 <a href="https://twitter.com/johnnokari">
