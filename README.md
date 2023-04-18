@@ -18,7 +18,7 @@ I am a Fullstack Developer who believes that technology's full potential is yet 
 
 
 ## ✏️ Currently Leanring
-🎨 I use Redux to build robust, scalable web applications that manage complex data flows and ensure seamless user experiences.
+🎨 Redux to build robust, scalable web applications that manage complex data flows and ensure seamless user experiences.
 
 🖥️ Python is my go-to language for data processing, machine learning, and web development. From automating tasks to building sophisticated algorithms, I'm constantly amazed by the power and versatility of Python.
 
